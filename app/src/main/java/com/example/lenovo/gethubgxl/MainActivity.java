@@ -16,5 +16,13 @@ public class MainActivity extends AppCompatActivity {
         s="qewrty";
         int a=5；
 
+
+            
+            
+            
+            
+        int s=8998989;
+
+
     }
 }
